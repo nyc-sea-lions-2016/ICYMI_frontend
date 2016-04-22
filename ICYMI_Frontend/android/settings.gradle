@@ -1,0 +1,3 @@
+rootProject.name = 'ICYMI_Frontend'
+
+include ':app'
